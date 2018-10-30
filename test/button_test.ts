@@ -10,7 +10,7 @@ describe('SitesMenuToggle', () => {
         document.body.appendChild(el);
     });
 
-    it('should count event listener', () => {
+    it('should get click event on button', () => {
         // Instantiate class
         // Pass button and event to spy
         const button = new Button();
