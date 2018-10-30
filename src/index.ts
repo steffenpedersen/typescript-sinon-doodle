@@ -1,3 +1,3 @@
-const hello = "hello"
+import {Button} from "./button";
 
-console.log(hello)
+new Button()
