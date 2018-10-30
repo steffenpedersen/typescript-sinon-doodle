@@ -1,0 +1,22 @@
+{
+  "name": "typescript-sinon-doodle",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^5.2.5",
+    "@types/sinon": "^5.0.5",
+    "mocha": "^5.2.0",
+    "sinon": "^7.1.0",
+    "ts-loader": "^5.2.2",
+    "typescript": "^3.1.4",
+    "webpack": "^4.23.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
